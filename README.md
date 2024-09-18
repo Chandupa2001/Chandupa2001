@@ -65,12 +65,7 @@
   
 </div>
 
-<div align="center">
-  <a href="https://github.com/Chandupa2001">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Chandupa2001&theme=dark" />
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Chandupa2001&theme=dark" />
-  </a>
-</div><br>
+
 <div align="center">
 <p><img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=Chandupa2001&show_icons=true&locale=en&theme=dark" alt="Chandupa2001" /></p>
 </div>
