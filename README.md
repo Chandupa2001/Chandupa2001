@@ -24,7 +24,7 @@
   </td>
 </tr>
 </table>
-
+<br>
 <h3 align="center"> 
    <a target="_blank">
   </a>Connect with me:</h3>
@@ -43,37 +43,36 @@
     <img src="https://skillicons.dev/icons?i=bootstrap,c,css,dart,figma,flutter,github,gradle,html,java,js,laravel,python,typescript" />
   </a>
 </p>
-
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=powershell,latex,mysql,mongo,nodejs,express,firebase,googlecloud,npm,php,postman,photoshop,react,vscode" />
   </a>
 </p>
-<br><br>
+<br>
 
 <h3 align="center">My Statistics:</h3>
 
 <div align="center">
-<a href="https://github.com/Chandupa2001"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Chandupa2001&theme=algolia&hide_border=true"  width="520" alt="Chandupa2001"/></a>
+<a href="https://github.com/Chandupa2001"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Chandupa2001&theme=dark&hide_border=true"  width="520" alt="Chandupa2001"/></a>
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chandupa2001&layout=compact&theme=algolia" alt="Language stats.">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chandupa2001&layout=compact&theme=dark" alt="Language stats.">
 </div>
 
 <div align="center">
-  <a href="https://github.com/Nipuni102">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=Chandupa2001&theme=algolia&hide_border=true&exclude_days=Sun" />
+  <a href="https://github.com/Chandupa2001">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=Chandupa2001&theme=dark&hide_border=true&exclude_days=Sun" />
   </a>
   
 </div>
 
 <div align="center">
   <a href="https://github.com/Chandupa2001">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Chandupa2001&theme=algolia" />
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Chandupa2001&theme=algolia" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Chandupa2001&theme=dark" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Chandupa2001&theme=dark" />
   </a>
 </div><br>
 <div align="center">
-<p><img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=Chandupa2001&show_icons=true&locale=en&theme=algolia" alt="Chandupa2001" /></p>
+<p><img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=Chandupa2001&show_icons=true&locale=en&theme=dark" alt="Chandupa2001" /></p>
 </div>
 <div align="center">
 <a href="https://github.com/Chandupa2001">
