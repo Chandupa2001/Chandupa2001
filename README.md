@@ -10,7 +10,7 @@
 <tr border="none">
 <td width="50%" align="left">
   
-- 🌱 I’m currently learning **MERN**
+- 🌱 I’m currently learning **Next.js**
 - 💬 Ask me about **MERN, mysql, React, React Native, javascript**
 
 - 📫 How to reach me **chanduparanawaka2001@gmail.com**
